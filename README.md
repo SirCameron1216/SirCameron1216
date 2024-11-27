@@ -1,5 +1,9 @@
 ### About Me
+## Introduction
+Hello! My name is Cameron Lutz. I am a technical project manager, human factors engineer, and materials science researcher in the San Francisco Bay Area.
 
+## Certifications
+Project Management Professional (PMP) from the Project Management Institute
 <!--
 **SirCameron1216/SirCameron1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
