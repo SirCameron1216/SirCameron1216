@@ -2,8 +2,15 @@
 ## Introduction
 Hello! My name is Cameron Lutz. I am a technical project manager, human factors engineer, and materials science researcher in the San Francisco Bay Area.
 
+## Education
+BS Industrial and Systems Engineering from San Jose State University
+MS Industrial and Manufacturing Engineering from California Polytechnic State University in San Luis Obispo
+
 ## Certifications
-Project Management Professional (PMP) from the Project Management Institute
+Release Train Engineer (RTE) and Scrum Master (SSM) from Scaled Agile (SAFe)
+Project Management Professional (PMP) from the Project Management Institute (PMI)
+Certified Six Sigma Yellow Belt (CSSYB) from the American Society for Quality (ASQ)
+
 <!--
 **SirCameron1216/SirCameron1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
