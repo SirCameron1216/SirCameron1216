@@ -5,7 +5,7 @@ Hello! My name is Cameron Lutz. I am a technical project manager, human factors 
 ## Education
 BS Industrial and Systems Engineering from San Jose State University <br>
 MS Industrial and Manufacturing Engineering from California Polytechnic State University in San Luis Obispo  
-[MS Thesis Available Here](https://github.com/SirCameron1216/Lutz-Sapper-Wang-2024) <br>
+[MS Thesis Code and Data](https://github.com/SirCameron1216/Lutz-Sapper-Wang-2024) <br>
 
 ## Certifications
 Release Train Engineer (RTE) and Scrum Master (SSM) from Scaled Agile (SAFe) <br>
